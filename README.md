@@ -1,2 +1,4 @@
 # mis561-portfolio
 Portfolio of projects from my Data Visualization course. This will include the completion of assignments in Excel, Tableau, PowerBI through DataCamp, Adobe Express, and various AI tool.
+
+ Initial E-Commerce Profitability Analysis, Develop a basic profitability set of dashboards and explain the design choices through storytelling, [a link to your published Tableau workbook](https://public.tableau.com/views/Flex3AdvancinginExcelandTableau-Pt_1/ExplanatoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), I would like to look more into possible ways to view profitability through different graphics including heatmaps, or other charts alongside best practice for organization of dashboard and color choices to make dashboard visuals best catch the stakeholders eye.

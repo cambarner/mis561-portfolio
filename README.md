@@ -25,7 +25,7 @@ Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week W
 
 (https://new.express.adobe.com/id/urn:aaid:sc:US:a9820641-702e-4b17-88bf-cea4461d51c7?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
 
-Toughest objection: Your own chart shows 128 vs. 126. That’s basically a tie, and you’re asking me to pick one group over the other without saying why the difference matters. If the case rests on a two-customer lead, I’m not convinced the choice is driven by the data.
+Toughest objection: Gen Z only beats Millennials by two customers, so why Gen Z?” Slide 4 answers it: Gen Z has the highest qualifying rate (26% vs. 23%) and the most customers with no credit card at all, 297 of 484 (61%) vs. 220 of 558 (39%), so it is the largest untapped group.
 
 AI use: Claude (Claude Opus 5.5, Anthropic), Nov 15, 2026, used to draft slide titles and some text help, check figures within dataset to confirm my findings, suggest possible slide layouts and brand colors to build out consistency, and identify toughest objection from review once pitch was finished. No AI-generated images, charts or data.
 

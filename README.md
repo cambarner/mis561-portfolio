@@ -18,3 +18,15 @@ In this analysis, my use of Power BI focused on learning the tool itself, but al
 My remaining gap is limited experience with Power BI, as some steps still feel counterintuitive when building effective visualizations and turning data into strong, decision-ready visuals. I would use Tableau for exploring data and building initial views, and Power BI for recurring dashboards where users need to drill down and filter across visuals to make decisions. However, the work I have done so far has been valuable, and Power BI remains a strong tool to use alongside Tableau in supporting Southwest’s decision making, both now and in the future.
 
 Card Growth Analysis – Wildcat Rewards Offer, Develop credit and debit card dashboards while considering Generation of individual, income and debt. Additionally, looked at various ratios and computations to calculate eligibility of members within each generation based upon their debt to income and FICO score. https://public.tableau.com/views/CardGrowthAnalysis-WildcatRewardsOffer_17930690572050/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link One thing I would do differently next time if more data was available is do an analysis on more individualized debt and see if you can create a dashboard/visualization to further eliminate individuals who may not be included due to their higher debt and likely lower income since they are newer to their careers. I would also like to have explored a little bit more the calculations of their scores and do some predictive analysis to see if we can predict how likely they are to pay back their card if they got one.
+
+**Nov 15, 2026. Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week Wildcat Rewards pilot mailing to 128 qualified Gen Z customers.
+
+(https://new.express.adobe.com/id/urn:aaid:sc:US:a9820641-702e-4b17-88bf-cea4461d51c7?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Toughest objection: Your own chart shows 128 vs. 126. That’s basically a tie, and you’re asking me to pick one group over the other without saying why the difference matters. If the case rests on a two-customer lead, I’m not convinced the choice is driven by the data.
+
+AI use: Claude (Claude Opus 5.5, Anthropic), Nov 15, 2026, used to draft slide titles and some text help, check figures within dataset to confirm my findings, suggest possible slide layouts and brand colors to build out consistency, and identify toughest objection from review once pitch was finished. No AI-generated images, charts or data.
+
+Training completed: Nov 15, 2026

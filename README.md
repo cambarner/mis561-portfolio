@@ -36,7 +36,7 @@ Training completed: Nov 15, 2026
 
 Rebranded a public IMDb movie dashboard, then built a brief for Alicia Grant, Manager of Advertiser Partnerships: do family-friendly movies draw enough audience engagement to support their own ad package?
 
-https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17955540421510/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+(https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17955540421510/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 One thing I'd change: I would check the data's grain before building calculations. The data has one row per person per movie, so summing votes directly inflated every total until I fixed it at the movie level.
 

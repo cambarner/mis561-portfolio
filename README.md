@@ -30,3 +30,16 @@ Toughest objection: Gen Z only beats Millennials by two customers, so why Gen Z?
 AI use: Claude (Claude Opus 5.5, Anthropic), Nov 15, 2026, used to draft slide titles and some text help, check figures within dataset to confirm my findings, suggest possible slide layouts and brand colors to build out consistency, and identify toughest objection from review once pitch was finished. No AI-generated images, charts or data.
 
 Training completed: Nov 15, 2026
+
+
+**November 24, 2026 · Brand Standard Application in Tableau**
+
+Rebranded a public IMDb movie dashboard, then built a brief for Alicia Grant, Manager of Advertiser Partnerships: do family-friendly movies draw enough audience engagement to support their own ad package?
+
+https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17955540421510/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+One thing I'd change: I would check the data's grain before building calculations. The data has one row per person per movie, so summing votes directly inflated every total until I fixed it at the movie level.
+
+AI use: Claude (Anthropic) helped write Tableau calculations, verified the votes per movie figures, and drafted text that I reviewed and edited, November 24, 2026.
+
+
